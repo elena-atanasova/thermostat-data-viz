@@ -1,0 +1,16 @@
+# Data - not redistributed
+data/
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.DS_Store
